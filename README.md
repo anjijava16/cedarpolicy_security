@@ -11,3 +11,9 @@ Cedar is an open source policy language and evaluation engine. Cedar enables dev
 4. https://docs.sondera.ai/concepts/decisions/#policy-code
 5. https://github.com/sondera-ai/trustworthy-adk/tree/main
 6. https://github.com/sondera-ai/trustworthyadk/blob/main/src/trustworthy/plugins/soft_instruction_control.py
+
+
+# Callback statements
+
+<img width="822" height="634" alt="image" src="https://github.com/user-attachments/assets/d5f63043-cc54-43c7-ab4c-cd92d4074937" />
+
